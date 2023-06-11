@@ -1,0 +1,1 @@
+export const countryRegex = /^[A-Za-z ]*[a-zA-Z ][A-Za-z ]*$/;
